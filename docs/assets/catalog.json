@@ -1,0 +1,164 @@
+[
+  {
+    "id": "athlete",
+    "title": "Athlete Spotlight",
+    "options": [
+      {
+        "id": "athlete-1",
+        "title": "Stadium Gold"
+      },
+      {
+        "id": "athlete-2",
+        "title": "Cover Athlete"
+      },
+      {
+        "id": "athlete-3",
+        "title": "Neon Arena"
+      }
+    ]
+  },
+  {
+    "id": "game-day",
+    "title": "Game Day",
+    "options": [
+      {
+        "id": "game-day-1",
+        "title": "Rivalry Night"
+      },
+      {
+        "id": "game-day-2",
+        "title": "Matchday Editorial"
+      },
+      {
+        "id": "game-day-3",
+        "title": "Under the Lights"
+      }
+    ]
+  },
+  {
+    "id": "milestones",
+    "title": "Milestones",
+    "options": [
+      {
+        "id": "milestones-1",
+        "title": "Record Breaker"
+      },
+      {
+        "id": "milestones-2",
+        "title": "Golden Moment"
+      },
+      {
+        "id": "milestones-3",
+        "title": "The Journey"
+      }
+    ]
+  },
+  {
+    "id": "recruiting",
+    "title": "Recruiting",
+    "options": [
+      {
+        "id": "recruiting-1",
+        "title": "Next Chapter"
+      },
+      {
+        "id": "recruiting-2",
+        "title": "Prospect Profile"
+      },
+      {
+        "id": "recruiting-3",
+        "title": "Official Visit"
+      }
+    ]
+  },
+  {
+    "id": "birth",
+    "title": "Birth Announcements",
+    "options": [
+      {
+        "id": "birth-1",
+        "title": "Hello Little One"
+      },
+      {
+        "id": "birth-2",
+        "title": "Moon and Stars"
+      },
+      {
+        "id": "birth-3",
+        "title": "Botanical Welcome"
+      }
+    ]
+  },
+  {
+    "id": "graduation",
+    "title": "Graduation",
+    "options": [
+      {
+        "id": "graduation-1",
+        "title": "Class Legacy"
+      },
+      {
+        "id": "graduation-2",
+        "title": "Modern Graduate"
+      },
+      {
+        "id": "graduation-3",
+        "title": "Golden Future"
+      }
+    ]
+  },
+  {
+    "id": "birthdays",
+    "title": "Birthday",
+    "options": [
+      {
+        "id": "birthdays-1",
+        "title": "Birthday Icon"
+      },
+      {
+        "id": "birthdays-2",
+        "title": "Confetti Club"
+      },
+      {
+        "id": "birthdays-3",
+        "title": "Timeless Celebration"
+      }
+    ]
+  },
+  {
+    "id": "weddings",
+    "title": "Wedding",
+    "options": [
+      {
+        "id": "weddings-1",
+        "title": "Modern Vows"
+      },
+      {
+        "id": "weddings-2",
+        "title": "Garden Romance"
+      },
+      {
+        "id": "weddings-3",
+        "title": "After Dark"
+      }
+    ]
+  },
+  {
+    "id": "occasions",
+    "title": "All Occasions",
+    "options": [
+      {
+        "id": "occasions-1",
+        "title": "Life in Color"
+      },
+      {
+        "id": "occasions-2",
+        "title": "Keepsake"
+      },
+      {
+        "id": "occasions-3",
+        "title": "Big News"
+      }
+    ]
+  }
+]
