@@ -11,3 +11,17 @@
 .download-actions{display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:24px}
 @media(max-width:760px){.header .play-badge-header{width:150px}.header{gap:12px}.hero .actions{gap:16px}.download-actions{gap:16px}.download-actions .text-link{font-size:13px}}
 @media(max-width:380px){.header .play-badge-header{width:130px}.header .brand{font-size:21px;gap:6px}.header .brand img{width:30px;height:30px}}
+
+/* Affiliate inquiries use the existing support contact. */
+.affiliate-section{scroll-margin-top:32px;display:grid;grid-template-columns:1.2fr .8fr;gap:72px;align-items:center;padding:64px;margin-bottom:110px;border:1px solid #27435b;border-radius:24px;background:radial-gradient(ellipse at top left,#155b8040,transparent 65%),#0b1928}
+.affiliate-copy h2{margin-bottom:28px}
+.affiliate-copy .lead{font-size:16px}
+.affiliate-audience{font-size:14px;font-weight:600;color:#d4e7f5;margin-bottom:28px}
+.affiliate-copy .button{justify-content:center;max-width:100%}
+.affiliate-contact{font-size:12px;line-height:1.8;color:var(--muted);max-width:400px;margin:18px 0 10px}
+.affiliate-art{position:relative;padding:18px 0 60px}
+.affiliate-art img{width:78%;margin:0 auto;transform:rotate(4deg);border:1px solid #7595a055;border-radius:10px;box-shadow:0 24px 45px #0008}
+.affiliate-art-caption{position:relative;margin:-25px 0 0;padding:24px;background:#0b1928;border:1px solid #29485f;border-radius:12px;box-shadow:0 12px 28px #0004}
+.affiliate-art-caption p{font-size:21px;font-weight:700;line-height:1.3;margin:12px 0 0}
+@media(max-width:1100px){.affiliate-section{gap:36px;padding:40px}}
+@media(max-width:760px){.affiliate-section{grid-template-columns:1fr;padding:30px 24px;gap:28px;margin-bottom:65px}.affiliate-copy h2{font-size:36px;letter-spacing:-1.5px}.affiliate-copy .lead{font-size:15px}.affiliate-art{max-width:340px;width:100%;margin:auto;padding-bottom:0}.affiliate-art-caption p{font-size:19px}footer nav{flex-wrap:wrap}}
